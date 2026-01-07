@@ -2,6 +2,9 @@
 
 该项目使用 Github App 管理项目内容，请保管好后续创建的 **Private key**，不要上传到公开网上。
 
+如有疑问可以参考视频：
+ https://www.bilibili.com/video/BV1ezmFBkEPH/?share_source=copy_web&vd_source=4762850b73ee56ca2375cbca9c36c621
+
 ## 0. Fork 项目
 
 请先 fork 我的项目到你自己的仓库中。后续我的更新，可以直接同步最新功能。

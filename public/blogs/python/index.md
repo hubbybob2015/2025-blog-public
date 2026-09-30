@@ -1,0 +1,1 @@
+https://python-docs.yysuni.com/docs/basic

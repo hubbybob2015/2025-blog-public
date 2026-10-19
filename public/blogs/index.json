@@ -1,5 +1,14 @@
 [
   {
+    "slug": "AI使用",
+    "title": "widows的操作使用",
+    "tags": [],
+    "date": "2026-10-19T10:29",
+    "summary": "",
+    "hidden": true,
+    "category": ""
+  },
+  {
     "slug": "wsl",
     "title": "wsl的相关命令",
     "tags": [],
